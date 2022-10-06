@@ -50,7 +50,7 @@ The usage is the same of [gatsby-remark-dropcap](https://www.gatsbyjs.com/plugin
 <p align="center">
   <sub>Copyright © 2022-present, Alex Rintt.</sub>
 </p>
-<p align="center">Gatsby Source GitHub Discussions <a href="https://github.com/alexrintt/gatsby-source-github-discussions/blob/master/LICENSE">is MIT licensed 💖</a></p>
+<p align="center">Gatsby Remark Dropcap <a href="https://github.com/alexrintt/gatsby-remark-dropcap/blob/master/LICENSE">is MIT licensed 💖</a></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51419598/194058464-f67c7fb5-9066-49b5-aa94-cf34830708ad.png" width="35" />
 </p>
