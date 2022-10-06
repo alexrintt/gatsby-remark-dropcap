@@ -1,0 +1,27 @@
+{
+  "name": "@alexrintt/gatsby-remark-dropcap",
+  "version": "0.1.0",
+  "description": "Add dropcap (capital char) in the first paragraph of each markdown node through gatsby-transform-remark.",
+  "main": "index.js",
+  "author": {
+    "email": "alexrintt@gmail.com",
+    "name": "Alex Rintt",
+    "url": "https://github.com/alexrintt"
+  },
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-transform-plugin",
+    "dropcap",
+    "capital-char",
+    "small-caps"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "echo \"No build script setup\""
+  },
+  "dependencies": {
+    "unist-util-visit": "^2.0.0"
+  }
+}
