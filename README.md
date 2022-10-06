@@ -1,8 +1,10 @@
 ## Installation
 
-**This is not npm hosted**, so be careful if you want to depend on it, I recommend a fork instead a direct dependency.
+> **Warning** this is not npm hosted, so be careful if you want to depend on it, I recommend a fork instead a direct dependency.
 
-```
+To install from a GitHub source is pretty simple:
+
+```shell
 npm install alexrintt/gatsby-remark-dropcap
 # or
 yarn add alexrintt/gatsby-remark-dropcap
