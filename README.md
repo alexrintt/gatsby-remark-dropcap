@@ -12,7 +12,7 @@ yarn add alexrintt/gatsby-remark-dropcap
 
 ## Usage
 
-This is a subplugin of `gatsby-transformer-remark`!
+This is a local subplugin of `gatsby-transformer-remark` forked from [gatsby-remark-dropcap](https://www.gatsbyjs.com/plugins/gatsby-remark-dropcap/)!
 
 The usage is the same of [gatsby-remark-dropcap](https://www.gatsbyjs.com/plugins/gatsby-remark-dropcap/) but with an additional option:
 
