@@ -1,5 +1,5 @@
 {
-  "name": "@alexrintt/gatsby-remark-dropcap",
+  "name": "gatsby-remark-dropcap",
   "version": "0.1.0",
   "description": "Add dropcap (capital char) in the first paragraph of each markdown node through gatsby-transform-remark.",
   "main": "index.js",
