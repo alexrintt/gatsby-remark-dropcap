@@ -29,7 +29,7 @@ The usage is the same of [gatsby-remark-dropcap](https://www.gatsbyjs.com/plugin
       // [matchOnlyTheFirstParagraphInTheEntireDocument] if true will exit after
       // the first paragraph match, otherwise will match all first paragraphs.
       {
-        resolve: `@alexrintt/gatsby-remark-dropcap`,
+        resolve: `gatsby-remark-dropcap`,
         options: {
           matchOnlyTheFirstParagraphInTheEntireDocument: true,
         },
